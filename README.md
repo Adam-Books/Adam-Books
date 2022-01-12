@@ -1,6 +1,6 @@
 - 👋 Hi, I’m **@Adam-Books**
-- 👀 I’m interested in **JavaScript**
-- 🌱 I’m currently learning **React JS**
+- 👀 I’m interested in **JavaScript & C#**
+- 🌱 I’m currently learning **ADO.NET**
 - 💞️ I’m looking to collaborate on a **Front End Web Development**
 - 📫 How to reach me: 
      **[Adam-Books](https://github.com/Adam-Books), [codewars](https://www.codewars.com/users/Adam-Books), 
