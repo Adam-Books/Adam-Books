@@ -1,5 +1,5 @@
 - 👋 Hi, I’m **@Adam-Books**
-- 👀 I’m interested in **C#, VB.NET & DataBases & ASP.NET**
+- 👀 I’m interested in **C#, VB.NET, DataBases & ASP.NET**
 - 🌱 I’m currently learning **ASP.NET**
 - 💞️ I’m looking to collaborate on a **.NET Development**
 - 📫 How to reach me: 
