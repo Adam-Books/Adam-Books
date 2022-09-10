@@ -5,7 +5,7 @@
 - 📫 How to reach me: 
      **[Adam-Books](https://github.com/Adam-Books), [codewars](https://www.codewars.com/users/Adam-Books), 
      [LinkedIn](https://www.linkedin.com/in/adam-mo/)** <br><br>
-     [![Mail](https://img.shields.io/badge/Mail-adam.javascript@gmail.com-red)](mailto:adam.javascript@gmail.com)
+     [![Mail](https://img.shields.io/badge/Mail-adam@gmail.com-red)](mailto:adam.javascript@gmail.com)
      
 
 
