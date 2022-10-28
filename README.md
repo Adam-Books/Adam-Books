@@ -1,6 +1,6 @@
 - 👋 Hi, I’m **@Adam-Books**
 - 👀 I’m interested in **C#, VB.NET, DataBases & ASP.NET**
-- 🌱 I’m currently learning **ASP.NET**
+- 🌱 I’m currently learning **ASP.NET Core**
 - 💞️ I’m looking to collaborate on a **.NET Development**
 - 📫 How to reach me: 
      **[Adam-Books](https://github.com/Adam-Books), [codewars](https://www.codewars.com/users/Adam-Books), 
